@@ -15,7 +15,9 @@ Education
 
 Skills
 ======
+<!--
 * Programming
   * Python
   * C++
 * Swimming
+-->
